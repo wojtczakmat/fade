@@ -37,10 +37,10 @@ class _HomeState extends State<Home> {
                 color: Colors.blue,
               ),
               Fade(
-                visible: true,
-                duration: Duration(seconds: 1),
+                visible: visible,
+                duration: Duration(milliseconds: 500),
                 child: Container(
-                  height: 200,
+                  //height: 200,
                   color: Colors.green,
                   child: Center(
                     child: Column(
