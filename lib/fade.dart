@@ -22,7 +22,6 @@ class _FadeState extends State<Fade> with SingleTickerProviderStateMixin {
 
   @override
   void initState() {
-    print(widget.duration);
     _animationController = new AnimationController(
       value: widget.visible ? 1.0 : 0.0,
       duration: widget.duration,
