@@ -1,4 +1,4 @@
-# fade
+# fade ## 1.0.0
 A Widget that animates its `visible` property with fade and size (height) transitions made on `child` widget. It allows declarative UI without code smell like animation controller for each widget that should fade away. The Widget works on bounded and unbounded constraints, so height doesn't need to be explicitly provided to the `child` widget.
 
 The library provides one widget `Fade` and depends only on Flutter framework.
