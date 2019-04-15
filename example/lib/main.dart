@@ -40,7 +40,7 @@ class _HomeState extends State<Home> {
                 visible: visible,
                 duration: Duration(milliseconds: 500),
                 child: Container(
-                  //height: 200,
+                  height: 200,
                   color: Colors.green,
                   child: Center(
                     child: Column(

@@ -1,4 +1,4 @@
-# fade
+# example
 
 A new Flutter project.
 
