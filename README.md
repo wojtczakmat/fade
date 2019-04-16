@@ -5,6 +5,8 @@ A Widget that animates its `visible` property with fade and size (height) transi
 
 The library provides one widget `Fade` and depends only on Flutter framework.
 
+![](example.gif)
+
 ## Example
 
   * [Simple example with containers](https://github.com/wojtczakmat/fade/tree/master/example) - Simple example with a few containers in a tappable column.
